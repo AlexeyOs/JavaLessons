@@ -12,7 +12,8 @@ Java — строго типизированный объектно-ориент
 
 [Урок 3: Логические и условные операторы (if, if-else и switch).](lessons/LESSON3.md)
 
-[Урок 4:Операторы цикла (for, while, do-while), оператор break.](lessons/LESSON4.md)
+[Урок 4: Операторы цикла (for, while, do-while), оператор break.](lessons/LESSON4.md)
+
 
 
 ### Список источников:
