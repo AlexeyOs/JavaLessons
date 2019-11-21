@@ -14,7 +14,7 @@ Java — строго типизированный объектно-ориент
 
 [Урок 4: Операторы цикла (for, while, do-while), оператор break.](lessons/LESSON4.md)
 
-[Тестовые задания](https://docs.google.com/forms/d/e/1FAIpQLSdNGpgO_G3fqs0RQbiKGpEpPNU81zxdhGqj8dP2rp7mtmDKMx/viewform)
+[Тестовые задания](https://docs.google.com/forms/d/e/1FAIpQLSdNGpgO_G3fqs0RQbiKGpEpPNU81zxdhGqj8dP2rp7mtmDKMx/viewform?usp=sf_linkm)
 
 ### Список источников:
 1. Java. Библиотека профессионала, том 1. Основы. 10-е изд.: Пер. с англ. — М .: ООО "И.Д. Вильямс", 2016. — 864 с
