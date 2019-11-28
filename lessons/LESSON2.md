@@ -346,3 +346,5 @@ System.out.println(name1.compareTo(name2));
 
 5. Что делает метод indexOf?
 
+**[Предыдущий урок](LESSON1.md)**
+**[Следующий урок](LESSON3.md)**
